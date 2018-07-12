@@ -2,6 +2,6 @@ import calendar
 a=int(input())
 a=(calendar.isleap(a))
 if(a):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
